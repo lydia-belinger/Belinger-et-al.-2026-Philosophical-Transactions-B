@@ -5,4 +5,4 @@ Description:
 
 behavioral_data_belinger_et_al_2026 – BDI, MADRS, and FSCS data (37 patients)
 
-fMRI_data_belinger_et_al_2026 – fMRI eigenvariates from the self-referential processing paradigm (37 patients)
+fMRI_data_belinger_et_al_2026 – fMRI eigenvariates from the self-referential processing paradigm (caudate; 37 patients)
